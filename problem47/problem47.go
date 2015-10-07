@@ -1,16 +1,13 @@
-
+package main
 
 import (
     "fmt"
 )
 
-func isDistincPrime(number int)
-{
+func isDistincPrime(number int){
 
 }
 
-
-func main()
-{
-    fmt.println("Solution Problem 47:") 
+func main(){
+    fmt.Println("Solution Problem 47: ",4)
 }
